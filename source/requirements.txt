@@ -1,0 +1,9 @@
+unstructured>=0.11.8
+unstructured-client>=0.24.1
+streamlit>=1.36.0
+SQlite3>=3.35.0
+langchain>=0.2.8
+langchain-community>=0.2.7
+langchain-core>=0.2.19
+huggingface-hub>=0.23.4
+chromadb>=0.5.4 
